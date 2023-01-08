@@ -22,14 +22,15 @@ Projects
 
 ## Video Walkthrough
 
-<p align="center"><i><img src='http://g.recordit.co/jv0GwWRJoO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> </i></p>
+<p align="center"><i><img src='http://g.recordit.co/jv0GwWRJoO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> </i>
+</p>
 
 ## Bideo Walkthrough
 
-<p align="center"><i><img src='http://g.recordit.co/F37Yiorex0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> </i></p>
+<p align="center"><i><img src='http://g.recordit.co/F37Yiorex0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> </i>
+</p>
 
 ## License
-
     Copyright [2022] [Thien Nguyen]
 
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -43,5 +44,6 @@ Projects
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
 # Computer Animations Projects
  Some stuff on the terminal or gui start moving.
